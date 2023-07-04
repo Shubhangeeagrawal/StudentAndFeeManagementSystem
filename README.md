@@ -1,1 +1,1 @@
-# FeeManagemaentSystem
+# FeeManagementSystem
